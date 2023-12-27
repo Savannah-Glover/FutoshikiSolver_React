@@ -1,0 +1,1 @@
+# FutoshikiSolver_React
