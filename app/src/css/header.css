@@ -1,0 +1,10 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+    background-color: #02006c;
+    color:aliceblue;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
